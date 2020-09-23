@@ -1,7 +1,8 @@
 <template>
   <div class="container">
     <div>
-      dev1
+      dev1<br>
+      text<br>
       <Logo />
       <h1 class="title">
         vercel-test-website
